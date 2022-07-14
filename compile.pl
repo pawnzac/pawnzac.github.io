@@ -18,7 +18,7 @@ $wc =~ s/\s//g;
 
 my $wpd = int($wc)/int($days);
 
-$keywords{"wpd"} = $wpd;
+$keywords{"wpd"} = int($wpd);
 $keywords{"words"} = $wc;
 $keywords{"days"} = $days;
 $keywords{"books"} = 1;
