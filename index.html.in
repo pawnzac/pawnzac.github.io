@@ -2,6 +2,15 @@
   <head>
     <title>Zach Parker</title>
   </head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZWR13MZ8RZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZWR13MZ8RZ');
+</script>
   <body bg="#fafae0" style="color: #20202D">
     <h2 align="center">Zach Parker</h2>
 
