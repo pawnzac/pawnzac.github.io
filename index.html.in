@@ -1,8 +1,7 @@
 <html>
   <head>
     <title>Zach Parker</title>
-  </head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+      <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZWR13MZ8RZ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -11,6 +10,8 @@
 
   gtag('config', 'G-ZWR13MZ8RZ');
 </script>
+  </head>
+
   <body bg="#fafae0" style="color: #20202D">
     <h2 align="center">Zach Parker</h2>
 
