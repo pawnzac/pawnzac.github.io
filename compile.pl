@@ -22,7 +22,7 @@ $keywords{"wpd"} = int($wpd);
 $keywords{"words"} = $wc;
 $keywords{"days"} = $days;
 $keywords{"books"} = 1;
-$keywords{"rating"} = 1801;
+$keywords{"rating"} = 1803;
 
 if ($wpd >= 500)
   {
