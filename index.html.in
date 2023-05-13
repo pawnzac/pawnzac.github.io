@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <title>Zach Parker</title>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZWR13MZ8RZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZWR13MZ8RZ');
+</script>
+  </head>
+
+  <body bg="#fafae0" style="color: #20202D">
+    <h2 align="center">Zach Parker</h2>
+
+    <table align="center" width="60%" style="background: #f5f5dc;border-radius:1em;padding:1em">
+      <tr>
+        <td>
+          <p>
+            Welcome to my site!  This site tracks my progress and the goals I have for my hobbies.  By day, I'm a math/data/programming person.  I have a PhD in economics.  But this site isn't about any of that.
+          </p>
+          <ul>
+            <li> I've been working on a fantasy novel based on a world I started thinking about during the pandemic.  I wrote part of a role-playing game in the world, then about 50-60 thousands words of an all-over the place draft + wiki of world building stuff, then I wrote an outline, and now I'm sitting down to really write the story. Current progress: about 100,000 words in which I'd guesstimate is about 60 percent done for the first draft.  
+            <li> Playing Chess &mdash; <s>Current goal is to get to 1900 on Chess.com Rapid.</s> I made it!  Next: 2000!
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>
+            Below are links to where you can find me on the internet:
+          </p>
+          <ul>
+            <li><a href="https://zachparker.substack.com/">Blog</a>
+            <li><a href="https://twitter.com/pawnzac">Twitter (@pawnzac)</a>
+            <li><a href="https://c.im/@pawnzac">Mastadon (@pawnzac@c.im)</a>
+            <li><a href="https://www.chess.com/member/pawnzac">Chess.com</a> and my <a href="https://www.chess.com/blog/pawnzac">chess blog</a>.
+            <li><a href="https://absolutewrite.com/forums/index.php?members/zachparker.162213/">AbsoluteWrite</a> writing forum.
+
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          PS. Zach Parker is my internet name.  I'm more relaxed about posting on the internet since switching away from using my real name.  It's more fun.
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
