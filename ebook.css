@@ -1,0 +1,38 @@
+nav#landmarks {
+    display:none;
+}
+
+nav#page-list {
+    display:none;
+}
+
+ol {
+    list-style-type: none;
+}
+
+p {
+	text-indent: 1em;
+	margin-bottom: 0em;
+	margin-top: 0em;
+}
+
+h1 {
+	text-align: center;
+}
+
+.divider {
+	text-align: center;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.divstart {
+	font-size: 1.2em;
+}
+
+.maintext {
+    width: 50%;
+    margin-left: 25%;
+    border-left: 0.25em solid black;
+    padding: 1em;
+}
